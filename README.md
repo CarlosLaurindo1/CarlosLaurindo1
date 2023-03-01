@@ -27,22 +27,17 @@ It's a pleasure to have you here! If you like it, access my LinkedIn profile.
 
 ### Ferramentas e tecnologias || Tools and technologies 
 
-            <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
-<img src="https://static1.smartbear.co/smartbearbrand/media/images/logos/icons/tc_icon-clr.svg?ext=.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
-<img src="http://www.w3.org/2000/svg](https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png)" width="40" height="40" />
-            </div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /><img src="https://static1.smartbear.co/smartbearbrand/media/images/logos/icons/tc_icon-clr.svg?ext=.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /><img src="http://www.w3.org/2000/svg](https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png)" width="40" height="40" />
+
 
             
 ### Estudando || Learning
 
-            <div>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
-<img src="[http://www.w3.org/2000/svg](https://user-images.githubusercontent.com/6686410/31217465-6adbbd18-a98d-11e7-9371-26d578182e9d.png)" width="40" height="40" />
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M19.48 17.007A9 9 0 1 0 12 21a2.08 2.08 0 0 0 1.974-1.423L17.5 9m-4 0l2 6"/><path d="M10.764 9.411a3 3 0 1 0-.023 5.19"/></g></svg>
-</div>
+<img src="[[http://www.w3.org/2000/svg](https://user-images.githubusercontent.com/6686410/31217465-6adbbd18-a98d-11e7-9371-26d578182e9d.png)](https://insomnia.rest/images/insomnia-logo.svg)" width="40" height="40" />
+<img src="http://www.w3.org/2000/svg" width="40" height="40" />
+
                         
           
 <div>
