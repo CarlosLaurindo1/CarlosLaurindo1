@@ -1,4 +1,6 @@
-<h1 align="center"> 👋 Olá, bem vindos ao perfil de Carlos Alessandro Laurindo no github.  </h1>
+<h1 align="center"> 
+            <p>👋 Olá, bem vindos ao perfil de Carlos Alessandro Laurindo no github.  <br/>
+</h1>
 <h2 align="center">  É um prazer recebê-lo aqui! Se você curtiu meu perfil, acesse também meu perfil no LinkedIn. </h2>
 
 - 🔭 Atualmente trabalhando na Programmers Beyond IT, como um analista de qualidade de testes; 
@@ -37,8 +39,8 @@ It's a pleasure to have you here! If you like it, access my LinkedIn profile. </
 
 <div align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
-            <img src="https://insomnia.rest/images/insomnia-logo.svg" width="40" height="40" />
-            <img src="https://www.cypress.io/images/layouts/navbar-brand.svg" width="40" height="40" />
+            <img src="https://insomnia.rest/images/insomnia-logo.svg" width="80" height="40" />
+            <img src="https://www.cypress.io/images/layouts/navbar-brand.svg" width="80" height="40" />
             <div>
                        
 
