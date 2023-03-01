@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Olá, bem vindos ao perfil de Carlos Alessandro Laurindo no github.  </h1>
-<h1 align="center">  É um prazer recebê-lo aqui! Se você curtiu meu perfil, acesse também meu perfil no LinkedIn. </h1>
+<h2 align="center">  É um prazer recebê-lo aqui! Se você curtiu meu perfil, acesse também meu perfil no LinkedIn. </h2>
 
 - 🔭 Atualmente trabalhando na Programmers Beyond IT, como um analista de qualidade de testes; 
 - 🌱 Na área de desenvolvimento, estou apredendo sobre as linguagens de programação Java e C-Sharp;
@@ -8,8 +8,8 @@
 - ⚡ Um fatocurioso: sou um escritor amador, e gosto de "brincar" nas ferramentas do Canva e Figma. 
 
 
-<h1 align="center">  Hey guys, welcome to Carlos Alessandro Laurindo github profile. </h1>
-<h1 align="center">  It's a pleasure to have you here! If you like it, access my LinkedIn profile. </h1>
+<h2 align="center">  Hey guys, welcome to Carlos Alessandro Laurindo github profile. 
+It's a pleasure to have you here! If you like it, access my LinkedIn profile. </h2>
 
 
 - 🔭 I’m currently working on Programmers Beyond IT, as a QA test analyst; 
@@ -25,7 +25,7 @@
 </div>
 
 
-<h1 align="center">  Ferramentas e tecnologias || Tools and technologies </h1>
+<h2 align="center">  Ferramentas e tecnologias || Tools and technologies </h2>
 
             <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /><img src="https://static1.smartbear.co/smartbearbrand/media/images/logos/icons/tc_icon-clr.svg?ext=.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" /><img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" width="40" height="40" />
@@ -33,12 +33,12 @@
 
 
             
-<h1 align="center">  Estudando || Learning </h1>
+<h2 align="center">  Estudando || Learning </h2>
 
 <div align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
             <img src="https://insomnia.rest/images/insomnia-logo.svg" width="40" height="40" />
-            <img src="http://www.w3.org/2000/svg" width="40" height="40" />
+            <img src="https://www.cypress.io/images/layouts/navbar-brand.svg" width="40" height="40" />
             <div>
                        
 
