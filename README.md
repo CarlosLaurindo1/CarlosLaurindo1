@@ -1,10 +1,5 @@
-### Hi there 👋
-
-<!--
-**CarlosLaurindo1/CarlosLaurindo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-Olá, bem vindos ao perfil de Carlos Alessandro Laurindo no github. É um prazer recebê-lo aqui! Se você curtiu meu perfil, acesse também meu perfil no LinkedIn.
+### 👋 Olá, bem vindos ao perfil de Carlos Alessandro Laurindo no github. 
+## É um prazer recebê-lo aqui! Se você curtiu meu perfil, acesse também meu perfil no LinkedIn.
 
 - 🔭 Atualmente trabalhando na Programmers Beyond IT, como um analista de qualidade de testes; 
 - 🌱 Na área de desenvolvimento, estou apredendo sobre as linguagens de programação Java e C-Sharp;
@@ -13,7 +8,8 @@ Olá, bem vindos ao perfil de Carlos Alessandro Laurindo no github. É um prazer
 - ⚡ Um fatocurioso: sou um escritor amador, e gosto de "brincar" nas ferramentas do Canva e Figma. 
 
 
-Hey guys, welcome to Carlos Alessandro Laurindo github profile. It's a pleasure to have you here! If you like it, access my LinkedIn profile. 
+Hey guys, welcome to Carlos Alessandro Laurindo github profile. 
+It's a pleasure to have you here! If you like it, access my LinkedIn profile. 
 
 
 - 🔭 I’m currently working on Programmers Beyond IT, as a QA test analyst; 
@@ -24,8 +20,8 @@ Hey guys, welcome to Carlos Alessandro Laurindo github profile. It's a pleasure 
 
 <div>
 <a href="https://github.com/CarlosLaurindo1">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLaurindo1&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosLaurindo1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
