@@ -9,7 +9,7 @@
 <p>- 🌱 Na área de desenvolvimento, estou apredendo sobre as linguagens de programação Java e C-Sharp;</br>
 <p>- 🌱 Na área de qualidade, estou estudando sobre automação de testes no Cypress Framework e automação via API pelo Insomnia Framework;</br>
 <p>- 💬 Me pergunte sobre Java, Figma, TestComplete e API com Postman;</br>
-<p>- ⚡ Um fatocurioso: sou um escritor amador, e gosto de "brincar" nas ferramentas do Canva e Figma. </br>
+<p>- ⚡ Um fato curioso: sou um escritor amador, e gosto de "brincar" nas ferramentas do Canva e Figma. </br>
 <p></br>
 </div>
 
